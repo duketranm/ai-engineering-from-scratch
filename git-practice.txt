@@ -1,3 +1,0 @@
-Git practice: working directory and staging area.
-Experiment A: staged change.
-Experiment B: unstaged change.
